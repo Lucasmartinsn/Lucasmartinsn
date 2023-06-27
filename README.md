@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=130&section=header">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Martins;I'm+from+Brazil;Be+Welcome!+😀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Martins;I'm+from+in+Brazil;Be+Welcome!+😀)](https://git.io/typing-svg)
 
 <br/>
 
@@ -36,6 +36,7 @@
  ### FrameWorks:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![bootsTrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=8A2BE2&color=0D1117)&nbsp;
+![figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&color=0D1117)&nbsp;
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer">
